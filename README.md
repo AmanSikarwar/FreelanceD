@@ -12,6 +12,7 @@ FreelanceD is a decentralized freelance marketplace built using Flutter and Soli
 
 ## Project Structure
 
+```
 .freelanced/
 ├── .dart_tool/
 ├── .idea/
@@ -27,6 +28,7 @@ FreelanceD is a decentralized freelance marketplace built using Flutter and Soli
 ├── pubspec.lock
 ├── pubspec.yaml
 └── README.md
+```
 
 ## Getting Started
 
